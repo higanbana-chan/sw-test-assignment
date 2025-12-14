@@ -12,9 +12,9 @@
 
 ### Execution
 
-1.  บันทึกโค้ดทั้งหมดในไฟล์ `converter_app.py`
+1.  บันทึกโค้ดทั้งหมดในไฟล์ `assignment-3.py`
 2.  เปิด Terminal/Command Prompt ในโฟลเดอร์ของไฟล์
 3.  รันคำสั่ง:
 
 ```bash
-python converter_app.py
+python assignment-3.py

@@ -38,7 +38,6 @@ def number_to_thai_text(number):
                 
     return result + "บาทถ้วน"
 
-# --- ส่วนการรับ Input และแสดงผล ---
 if __name__ == "__main__":
     user_input = input("Enter 1-3 digit number: ")
     
